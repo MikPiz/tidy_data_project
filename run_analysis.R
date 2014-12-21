@@ -1,5 +1,5 @@
  ## R script
-
+=================
 ## This R script is called run_analysis.R and does the following:
 
 ## 1. Merges the training and the test sets to create one data set.
